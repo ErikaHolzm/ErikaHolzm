@@ -54,7 +54,7 @@ Desarrollo proyectos prácticos que integran frontend, backend y bases de datos,
   Proyecto full stack con autenticación, gestión de usuarios y conexión a base de datos.
 
 - 🧪 **Proyecto de Testing – Veterinaria Guau Guau**  
-  Proyecto de testing manual con diseño y ejecución de casos de prueba, reporte de incidencias y documentación.
+  Proyecto de testing manual documentado, con diseño y ejecución de casos de prueba, reporte de incidencias y documentación (no publicado como repositorio).
 
 (Los repositorios están disponibles en mi perfil)
 
