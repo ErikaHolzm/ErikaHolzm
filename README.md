@@ -4,6 +4,9 @@ Soy **Desarrolladora Web Full Stack y Tester Junior**, enfocada en la creación 
 
 Desarrollo proyectos prácticos que integran frontend, backend y bases de datos, aplicando buenas prácticas de desarrollo, validación y organización del código.
 
+- 🧪 **Proyecto de Testing – Veterinaria Guau Guau**  
+  Proyecto de testing manual documentado, con diseño y ejecución de casos de prueba, reporte de incidencias y documentación (no publicado como repositorio).
+
 ---
 
 ## 💻 Tecnologías que utilizo
