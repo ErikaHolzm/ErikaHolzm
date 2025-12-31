@@ -74,5 +74,4 @@ Me interesa seguir creciendo profesionalmente, participar en proyectos reales y 
 
 
 
-- ⚡ Fun fact: ...
--->
+
