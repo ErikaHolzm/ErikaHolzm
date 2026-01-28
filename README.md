@@ -17,6 +17,7 @@ Podés ver mi portfolio acá:
 - HTML5
 - CSS3
 - JavaScript
+- React Native
 
 ### Backend
 - Node.js
@@ -42,6 +43,7 @@ Podés ver mi portfolio acá:
 - GitLab
 - Vercel
 - Postman
+- Docker
 
 ---
 
