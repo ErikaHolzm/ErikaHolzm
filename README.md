@@ -61,7 +61,7 @@ Podés ver mi portfolio acá:
 - 🧪 **Proyecto de Testing – Veterinaria Guau Guau**  
   Proyecto de testing manual documentado, con diseño y ejecución de casos de prueba, reporte de incidencias y documentación (no publicado como repositorio).
 
-  🍔 Sistema de ventas – Restaurante
+- 🍔 Sistema de ventas – Restaurante
 Sistema web full stack para gestión de ventas en un restaurante, con control de productos, categorías, pedidos y usuarios por rol (admin, cajero y cocina).
 
 (Los repositorios están disponibles en mi perfil)
