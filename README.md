@@ -1,79 +1,32 @@
-# Hola 👋 Soy Erika Holzmann
+Hola 👋 Soy Erika Holzmann
 
-Soy **Desarrolladora Web Full Stack y Tester Junior**, enfocada en la creación de aplicaciones web funcionales, claras y responsivas, y en la calidad del software a través del testing manual.
+**Desarrolladora Full Stack y QA** de Uruguay. Construyo aplicaciones web y móviles funcionales, claras y responsivas, y me ocupo de que funcionen bien: diseño casos de prueba, automatizo pruebas y reporto errores.
 
-Desarrollo proyectos prácticos que integran frontend, backend y bases de datos, aplicando buenas prácticas de desarrollo, validación y organización del código.
+Mis proyectos integran frontend, backend y base de datos, con autenticación, validaciones y código organizado.
 
-Podés ver mi portfolio acá:  
-👉 https://portfolio-orpin-tau-qbnxwhe0y3.vercel.app/
-
----
-
-## 💻 Tecnologías que utilizo
-
-### Frontend
-- Vue.js
-- React
-- HTML5
-- CSS3
-- JavaScript
-- React Native
-
-### Backend
-- Node.js
-- Express
-- Python
-- Flask
-
-### Bases de datos
-- MySQL
-- SQL
-- MongoDB
-
-### Testing
-- Testing manual
-- Diseño de casos de prueba
-- Reporte y seguimiento de bugs
-- Validaciones funcionales
-- Pruebas de regresión
-
-### Herramientas
-- Git
-- GitHub
-- GitLab
-- Vercel
-- Postman
-- Docker
-
----
+👉 Portfolio: https://portfolio-orpin-tau-qbnxwhe0y3.vercel.app/
 
 ## 🚀 Proyectos destacados
 
-- 🐾 **Front-End Mascotas**  
-  E-commerce de productos para mascotas, enfocado en una experiencia de usuario clara y ordenada.
+- 📱 **App de recordatorios de vencimientos**: app móvil (React Native, TypeScript) con API en Node.js y MongoDB Atlas que avisa antes de cada vencimiento. Incluye [42 casos de prueba documentados](https://github.com/ErikaHolzm/vencimientos-app/blob/main/docs/casos-de-prueba.md), con integración continua en GitHub Actions.
+- 🚗 **Sistema de alquiler de autos**: Frontend en React y Backend en Python/Flask, con autenticación JWT y control de acceso por usuario.
+- 🍔 **Sistema de ventas para restaurante**: sistema full stack con productos, categorías, pedidos y usuarios por rol (admin, cajero y cocina).
+- 💇‍♀️ **Sistema de reservas para peluquería**: gestión de turnos con foco en usabilidad y SEO.
+- 🐾 **Front-End Mascotas**: e-commerce de productos para mascotas.
+- 🧪 **Testing – Veterinaria Guau Guau**: proyecto de testing manual con casos de prueba, reporte de incidencias y documentación (no publicado como repositorio).
 
-- 💇‍♀️ **Sistema de reservas – Peluquería**  
-  Aplicación web para gestión de turnos, desarrollada con enfoque en usabilidad y SEO.
+## 💻 Tecnologías
 
-- 🚗 **Sistema de alquiler de autos**  
-  Proyecto full stack con autenticación, gestión de usuarios y conexión a base de datos.
-
-- 🧪 **Proyecto de Testing – Veterinaria Guau Guau**  
-  Proyecto de testing manual documentado, con diseño y ejecución de casos de prueba, reporte de incidencias y documentación (no publicado como repositorio).
-
-- 🍔 Sistema de ventas – Restaurante
-Sistema web full stack para gestión de ventas en un restaurante, con control de productos, categorías, pedidos y usuarios por rol (admin, cajero y cocina).
-
-(Los repositorios están disponibles en mi perfil)
-
----
+- **Frontend:** React, Vue.js, React Native, TypeScript, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express, Python, Flask
+- **Bases de datos:** MongoDB, MySQL
+- **Testing:** diseño de casos de prueba, pruebas funcionales y de regresión, pruebas automatizadas, seguimiento de bugs
+- **Herramientas:** Git, GitHub, GitLab, GitHub Actions, Vercel, Postman, Docker
 
 ## 🌱 Sobre mí
 
-Me encuentro en constante aprendizaje, combinando desarrollo y testing para crear soluciones completas y de calidad.  
-Me interesa seguir creciendo profesionalmente, participar en proyectos reales y aportar tanto en desarrollo como en aseguramiento de calidad.
+Estoy en constante aprendizaje y busco mi primer trabajo en desarrollo, donde pueda aportar tanto en programación como en calidad de software.
 
----
 
 📫 **Contacto**
 
