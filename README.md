@@ -10,6 +10,7 @@ Mis proyectos integran frontend, backend y base de datos, con autenticación, va
 
 - 📱 **App de recordatorios de vencimientos**: app móvil (React Native, TypeScript) con API en Node.js y MongoDB Atlas que avisa antes de cada vencimiento. Incluye [42 casos de prueba documentados](https://github.com/ErikaHolzm/vencimientos-app/blob/main/docs/casos-de-prueba.md), con integración continua en GitHub Actions.
 - 🚗 **Sistema de alquiler de autos**: Frontend en React y backend en Python/Flask con MySQL. Incluye autenticación JWT, roles (cliente y admin), búsqueda de autos disponibles por fechas y reservas con validación.
+- 🧁 **Les Délices (https://les-delices-front.vercel.app)**: sitio web informativo y responsive para una confitería, con Vue.js y Tailwind CSS. Muestra los productos, la ubicación con Google Maps y contacto directo por WhatsApp.
 - 🍔 **Sistema de ventas para restaurante**: sistema full stack con productos, categorías, pedidos y usuarios por rol (admin, cajero y cocina).
 - 💇‍♀️ **Sistema de reservas para peluquería**: gestión de turnos con foco en usabilidad y SEO.
 - 🐾 **Front-End Mascotas**: e-commerce de productos para mascotas.
@@ -17,7 +18,7 @@ Mis proyectos integran frontend, backend y base de datos, con autenticación, va
 
 ## 💻 Tecnologías
 
-- **Frontend:** React, Vue.js, React Native, TypeScript, JavaScript, HTML5, CSS3
+- **Frontend:** React, Vue.js, React Native, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express, Python, Flask
 - **Bases de datos:** MongoDB, MySQL
 - **Testing:** diseño de casos de prueba, pruebas funcionales y de regresión, pruebas automatizadas, seguimiento de bugs
